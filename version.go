@@ -1,3 +1,3 @@
 package gopkg
 
-const VERSION = 15.0
+const VERSION = 15.0000
